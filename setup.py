@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="easyarduino",
-    version="0.2",
+    version="0.3",
     description="A simple and easy-to-use Arduino control library using PyFirmata",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
