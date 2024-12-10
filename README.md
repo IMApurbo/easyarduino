@@ -1,4 +1,4 @@
-```markdown
+
 # easyarduino - Python Library for Arduino Control
 
 `easyarduino` is a Python library designed to simplify the process of controlling an Arduino board using the `pyfirmata` library. It provides an easy-to-use interface for managing digital and analog pins, controlling servos, handling I2C/SPI communication, and more.
@@ -6,7 +6,7 @@
 ## Installation
 
 To use this library, you need Python and `easyarduino` installed. You can install the required dependencies with the following command:
-```
+
 ```bash
 pip install easyarduino
 ```
