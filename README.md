@@ -6,7 +6,7 @@
 ## Installation
 
 To use this library, you need Python and `easyarduino` installed. You can install the required dependencies with the following command:
-
+```
 ```bash
 pip install easyarduino
 ```
