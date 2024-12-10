@@ -223,10 +223,3 @@ controller.close()
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Key Features of the README:
-- **Installation Instructions**: Describes how to install the library using `pip`.
-- **Detailed Functionality**: Each function in the `ArduinoController` class is explained with usage examples.
-- **Example Usage**: A complete example of how to initialize the controller, perform operations, and close the connection.
-
-This README will help users understand how to interact with the Arduino board using the provided Python library.
